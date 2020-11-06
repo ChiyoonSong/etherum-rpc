@@ -29,7 +29,7 @@ import java.util.Optional;
 @SpringBootTest
 public class RpcTests {
 
-    private final String rpcEndPoint = "https://mainnet.infura.io/v3/27871fde3d9e4eddb88368045cecb18b";
+    private final String rpcEndPoint = "https://mainnet.infura.io/v3/[KEYS]";
 
     @Test
     void contextLoads() {

@@ -28,7 +28,7 @@ import java.util.Optional;
 
 @SpringBootTest
 public class RpcTests {
-
+    // todo : set infura key
     private final String rpcEndPoint = "https://mainnet.infura.io/v3/[KEYS]";
 
     @Test
